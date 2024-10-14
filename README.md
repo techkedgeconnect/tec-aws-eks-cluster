@@ -21,7 +21,7 @@
     endpoint, VPC ID, or node group details.
 
 # Getting Started
-  Clone the Repository by executing this command - git clone https://github.com/techkedgeconnect/tec-eks-terraform-configuration.git
+  Clone the Repository by executing this command - git clone https://github.com/techkedgeconnect/tec-aws-eks-cluster.git
   - cd tec-eks-terraform-configuration
   - Initialize terraform by executing this command - terraform init
   - Apply the configuration by executing this command - terraform apply
